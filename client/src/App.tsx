@@ -46,6 +46,7 @@ function DemoLock({ onUnlock }: { onUnlock: () => void }) {
         <p style={{ lineHeight: "2", color: "#ddd", marginBottom: "25px" }}>
           انتهى وقت المعاينة المخصص لهذا الموقع.
           <br />
+         للتواصل 01551617146
           لإلغاء القفل وتشغيل النسخة الكاملة، يرجى إدخال كود التفعيل.
         </p>
 
